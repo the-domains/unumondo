@@ -1,6 +1,6 @@
 name: unumondo
 favicon: null
-layout_spectrum: 0.7519469235558063
+layout_spectrum: 0.99407
 typography_spectrum: 0.3717731072101742
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.47400275454856455
+  brandStrength: 0.8125
   lightness: 0.4878087155520916
   saturation: 0.8519057631492615
   rhythmicContrast: 0.8716904888860881
